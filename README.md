@@ -13,9 +13,11 @@
 
 <div align="center">
 
-[![Clique aqui para ouvir o Podcast](caminho/para/a/imagem.png)]([https://soundcloud.com/luis-felipe-souza-765878096/podcast-cafe-codigo-e-kant]
-
-</div>
+<p align="center">
+  <a href="https://soundcloud.com/luis-felipe-souza-765878096/podcast-cafe-codigo-e-kant">
+    <img src="imagens/_33bfd115-099b-4e3f-99b4-806ee97c21c8-removebg-preview.png" width="100" alt="Clique aqui para ouvir o Podcast">
+  </a>
+</p>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>

@@ -77,5 +77,3 @@ Empregar uma sequência de prompts para guiar cada etapa do processo criativo.
 <p>
 
 ---
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)

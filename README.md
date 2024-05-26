@@ -48,14 +48,14 @@ Empregar uma sequência de prompts para guiar cada etapa do processo criativo.
 
 ## 👨‍💻 Expert
 
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+  <img 
+    style="float: left; margin: 10px; width: 80px;" 
+    src="https://i.ibb.co/DpnzHM2/felipe.png" 
+    alt="felipe"
+    border="0"
+  />
+</p>
+    <p>&nbsp&nbsp&nbspLuis Felipe Souza Santos<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/felipeAguiarCode">
@@ -68,7 +68,7 @@ Empregar uma sequência de prompts para guiar cada etapa do processo criativo.
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
+        href="https://www.instagram.com/luisfelipe8982/">
         Instagram
     </a>
     &nbsp;|&nbsp;</p>

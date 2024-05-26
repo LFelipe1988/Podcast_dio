@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[Clique aqui para ouvir o Podcast](https://soundcloud.com/luis-felipe-souza-765878096/podcast-cafe-codigo-e-kant)
+[![Clique aqui para ouvir o Podcast](caminho/para/a/imagem.png)]([https://soundcloud.com/luis-felipe-souza-765878096/podcast-cafe-codigo-e-kant]
 
 </div>
 

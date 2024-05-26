@@ -11,9 +11,11 @@
 </a>
 </p>
 
-<p align="center">
-    preview do podcast
-</p>
+<div align="center">
+
+[Clique aqui para ouvir o Podcast](https://soundcloud.com/luis-felipe-souza-765878096/podcast-cafe-codigo-e-kant)
+
+</div>
 
 <div align="center">
     <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>

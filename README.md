@@ -1,7 +1,7 @@
 <p align="center">
 <img 
-    src="imagens/cafecodigosekant.png"
-    width="300"
+    src="imagens/cafecomkant.png"
+    width="500"
 />
 </p>
 <a href="https://dio.me/">

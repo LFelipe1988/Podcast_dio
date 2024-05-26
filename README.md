@@ -58,12 +58,12 @@ Empregar uma sequência de prompts para guiar cada etapa do processo criativo.
     <p>&nbsp&nbsp&nbspLuis Felipe Souza Santos<br>
     &nbsp&nbsp&nbsp
     <a 
-        href="https://github.com/felipeAguiarCode">
+        href="https://github.com/LFelipe1988">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="www.linkedin.com/in/felipe-exe">
+        href="https://www.linkedin.com/in/luis-felipe-souza-75287a306/">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
